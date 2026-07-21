@@ -194,9 +194,9 @@ loss: CrossEntropyLoss
 
 ## 8. 过程记录与防作业要求
 
-为了确认作业是本人逐步完成，而不是一次性生成成品代码，本次作业必须满足以下两条过程性要求。
+为了确认作业是本人逐步完成，而不是一次性生成成品代码，本次作业必须满足以下过程性要求。
 
-### 9 Git 小步提交
+### Git 小步提交
 
 要求每完成一个小模块提交一次 commit，禁止一次性把整个项目 push 上去。
 
@@ -219,7 +219,7 @@ docs: 补充实验报告中的 loss/accuracy 曲线
 git log --oneline 的文本输出或截图
 ```
 
-## 10. 参考资源
+## 9. 参考资源
 
 - EEGNet 论文：Lawhern et al., "EEGNet: A Compact Convolutional Neural Network for EEG-based Brain-Computer Interfaces", Journal of Neural Engineering, 2018
 - EEGNet 官方实现：https://github.com/vlawhern/arl-eegmodels
