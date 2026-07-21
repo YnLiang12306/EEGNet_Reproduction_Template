@@ -237,4 +237,4 @@ Input (1 × C × T)
 - Lawhern, V. J., et al. (2018). EEGNet: A Compact Convolutional Neural Network for EEG-based Brain-Computer Interfaces. *Journal of Neural Engineering*, 15(5), 056013.
 - EEGNet 官方实现：https://github.com/vlawhern/arl-eegmodels
 - Braindecode：https://github.com/braindecode/braindecode
-- MOABB：https://neurotechx.github.io/moabb/
+- MOABB：https://moabb.neurotechx.com/
