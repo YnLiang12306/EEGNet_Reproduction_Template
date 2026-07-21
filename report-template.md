@@ -209,19 +209,7 @@ Input (1 × C × T)
 （在这里填写）
 ```
 
-## 11. 与论文结果对比
-
-| 数据集 | 论文报告 Accuracy | 本实验 Accuracy | 差异 |
-|---|---|---|---|
-| | | | |
-
-若存在差异，请分析可能的原因（数据预处理差异、训练轮次、被试选择等）：
-
-```text
-（在这里填写）
-```
-
-## 12. 问题与改进
+## 11. 问题与改进
 
 请简要说明：
 
@@ -233,7 +221,7 @@ Input (1 × C × T)
 （在这里填写）
 ```
 
-## 13. Git 提交记录
+## 12. Git 提交记录
 
 - 仓库地址：
 - 总 commit 数：
@@ -244,7 +232,7 @@ Input (1 × C × T)
 （在这里粘贴 git log --oneline）
 ```
 
-## 14. 参考资料
+## 13. 参考资料
 
 - Lawhern, V. J., et al. (2018). EEGNet: A Compact Convolutional Neural Network for EEG-based Brain-Computer Interfaces. *Journal of Neural Engineering*, 15(5), 056013.
 - EEGNet 官方实现：https://github.com/vlawhern/arl-eegmodels
